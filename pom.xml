@@ -4,11 +4,11 @@
 
     <groupId>art.yszu.utils</groupId>
     <artifactId>utils</artifactId>
-    <version>0.1</version>
+    <version>0.2-SNAPSHOT</version>
     <packaging>pom</packaging>
     <scm>
         <developerConnection>scm:git:https://github.com/yszu-art/utils.git</developerConnection>
-      <tag>utils-0.1</tag>
+      <tag>HEAD</tag>
   </scm>
     <modules>
         <module>class-switcher</module>
