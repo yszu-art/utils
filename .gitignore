@@ -1,7 +1,10 @@
 target/
+/**/target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+pom.xml.releaseBackup
+release.properties
 
 ### IntelliJ IDEA ###
 .idea/
