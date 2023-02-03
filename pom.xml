@@ -12,6 +12,7 @@
   </scm>
     <modules>
         <module>class-switcher</module>
+        <module>console-color</module>
     </modules>
 
     <properties>
