@@ -2,9 +2,9 @@
 
 ## Usage example:
 ```java
-import java.util.function.Function;
 
 class UsageExample {
+    
     void switchFor() {
         Object object = someObject();
         ClassSwitcher
